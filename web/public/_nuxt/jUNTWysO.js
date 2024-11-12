@@ -1,0 +1,1 @@
+import{_,a}from"./KeYTJdsh.js";import{_ as s,v as c,z as e,L as r,t as d}from"./BZNtI45u.js";import"./Bv48os-N.js";import"./tloqLIhK.js";const m={},p={class:"bgg"};function f(o,l){const t=_,n=a;return d(),c("div",p,[e(t),r(o.$slots,"default",{},void 0,!0),e(n)])}const g=s(m,[["render",f],["__scopeId","data-v-18a852da"]]);export{g as default};
